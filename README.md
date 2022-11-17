@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leo Yeung
 - 👀 I’m interested in Image Processing, Quant Trading, Rust
 - 🌱 I’m currently learning Rust Language
-- 💞️ I’m looking to collaborate on Quant Trading Project...
+- 💞️ I’m looking to collaborate on Quant Trading / Backtesting / Time Series / Project
 - 📫 You can reach me leo.at.imvt.com
 
 About me:
