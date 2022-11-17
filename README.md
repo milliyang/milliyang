@@ -5,7 +5,7 @@
 - 📫 I can reach me leo.at.imvt.com
 
 About me:
-- 3 years software development on mainfame machine for (Banking Industry)
+- 3 years software development on mainfame machine for Banking Industry. (serice Bank Of China-HK)
 - 10+ years engineer on camera development for Z-CAM, on these topic:
   - Android / iOS App developer
   - Linux System
