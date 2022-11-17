@@ -9,7 +9,7 @@ About me:
 - 10+ years engineer on camera development for [Z-CAM](https://www.z-cam.com/), on these topic:
   - Android / iOS App developer
   - Linux system software development
-  - Neural Networks Porting on embeded system
+  - Neural Networks integration on embeded system
   - Auto Exposure / Auto White Blance / Auto Focus (3A) algorithm design / implement
   - Image Signal Processing (ISP) algorithm development  (The whole ISP pipeline except 3DNR)
   - Color Science Analyze
