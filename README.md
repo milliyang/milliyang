@@ -13,7 +13,7 @@ About me:
   - Image Signal Processing (ISP) algorithm development  (The whole ISP pipeline except 3DNR)
   - Color Science Analyze
   - Image Quality Tunning
-  - Lighting System Design
+  - Lighting system design and development
 
 - Language:
    - used : Cobol / Go / Objectivc C / Java
