@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Quant Trading Project...
 - 📫 I can reach me leo.at.imvt.com
 
-<!---
-milliyang/milliyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About:
+- 3 years software development on mainfame machine for (Banking Industry)
+- 10+ years engineer on camera development for Z-CAM
+  - Android / iOS APP GUI developer
