@@ -5,14 +5,14 @@
 - 📫 I can reach me leo.at.imvt.com
 
 About me:
-- 3 years software development on mainfame machine for Banking Industry. (serice Bank Of China-HK)
+- 5 years software development on mainfame machine for Banking Industry. (serve Bank Of China-HK)
 - 10+ years engineer on camera development for Z-CAM, on these topic:
   - Android / iOS App developer
-  - Linux System
+  - Linux system sofeware development
   - Auto Exposure / Auto White Blance / Auto Focus (3A) algorithm design / implement
   - Image Signal Processing (ISP) algorithm development  (The whole ISP pipeline except 3DNR)
   - Color Science Analyze
-  - Lighting System
+  - Lighting System Design
 
 - Language:
    - used : Cobol / Go / Objectivc C / Java
