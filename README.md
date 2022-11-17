@@ -18,3 +18,7 @@ About me:
    - used : Cobol / Go / Objectivc C / Java
    - using: Python / C++ / C
    - learing: Rust
+
+- Location:
+   - Hong Kong
+   - Shen Zhen (Mainland China)
