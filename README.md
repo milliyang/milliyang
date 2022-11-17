@@ -2,7 +2,7 @@
 - 👀 I’m interested in Image Processing, Quant Trading, Rust
 - 🌱 I’m currently learning Rust Language
 - 💞️ I’m looking to collaborate on Quant Trading Project...
-- 📫 I can reach me leo.at.imvt.com
+- 📫 You can reach me leo.at.imvt.com
 
 About me:
 - 5 years software development on mainfame machine for Banking Industry. (serve Bank Of China-HK)
