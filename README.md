@@ -12,7 +12,7 @@ About me:
   - Auto Exposure / Auto White Blance / Auto Focus (3A) algorithm design / implement
   - Image Signal Processing (ISP) algorithm development  (The whole ISP pipeline except 3DNR)
   - Color Science Analyze
-  - Image Quality Turning
+  - Image Quality Tunning
   - Lighting System Design
 
 - Language:
