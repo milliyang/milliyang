@@ -6,7 +6,7 @@
 
 About me:
 - 5 years software development on mainfame machine for Banking Industry. (serve Bank Of China-HK)
-- 10+ years engineer on camera development for [Z-CAM](https://www.z-cam.com/), on these topic:
+- 10+ years on camera development for [Z-CAM](https://www.z-cam.com/), on these topic:
   - Android / iOS App development
   - Linux system software development
   - Neural Networks integration on embeded system
