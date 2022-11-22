@@ -18,7 +18,7 @@ About me:
 
 - Language:
    - used : Cobol / Go / Objectivc C / Java
-   - using: Python / C++ / C
+   - using: Python / C-- / C
    - learning: Rust
 
 - Location:
