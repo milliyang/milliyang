@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leo Yeung
-- 👀 I’m interested in Image Processing, Quant Trading, Rust
-- 🌱 I’m currently learning Rust Language
+- 👀 I’m interested in Image Processing, Quant Trading
+- 🌱 I’m currently learning: make thing sample
 - 💞️ I’m looking to collaborate on Quant Trading / Backtesting / Time Series related Project
 - 📫 You can reach me leo.at.imvt.com
 
@@ -19,7 +19,7 @@ About me:
 - Language:
    - used : Cobol / Go / Objectivc C / Java
    - using: Python / C-- / C
-   - learning: Rust
+   - learning: Finance, Quant, Algorithm
 
 - Location:
    - Hong Kong
