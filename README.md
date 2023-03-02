@@ -6,7 +6,7 @@
 
 About me:
 - 5 years software development on mainfame machine in Banking Industry, works for [Forms](http://www.formssi.cn/)
-- 10+ years on camera development for [Z-CAM](https://www.z-cam.com/), on these topic:
+- 10+ years on camera development for [Z-CAM](https://www.z-cam.com/zcame2/), on these topic:
   - Android / iOS App development
   - Linux system software development
   - Neural Networks integration on embeded system
@@ -14,7 +14,7 @@ About me:
   - Image Signal Processing (ISP) algorithm development  (The whole ISP pipeline except 3DNR)
   - Color Science Analyze
   - Image Quality Tunning
-  - Lighting system design and development
+  - LED Lighting system design and development [Zolar](https://www.z-cam.com/zolar/)
 
 - Language:
    - used : Cobol / Go / Objectivc C / Java
