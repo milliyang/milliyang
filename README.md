@@ -9,8 +9,8 @@ About me:
 - 10+ years on camera development for [Z-CAM](https://www.z-cam.com/zcame2/), on these topic:
   - Android / iOS App development
   - Linux system software development
-  - Neural Networks integration on embeded system
-  - Auto Exposure / Auto White Blance / Auto Focus (3A) algorithm design / implement
+  - Neural Networks integration on embeded system [Yolo](https://pjreddie.com/darknet/yolo/)
+  - Auto Exposure / Auto White Blance / Auto Focus (3A) algorithm design and implement
   - Image Signal Processing (ISP) algorithm development  (The whole ISP pipeline except 3DNR)
   - Color Science Analyze
   - Image Quality Tunning
