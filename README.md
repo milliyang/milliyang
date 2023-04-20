@@ -11,7 +11,7 @@ About me:
   - Linux system software development
   - Neural Networks integration on embeded system
   - Auto Exposure / Auto White Blance / Auto Focus (3A) algorithm design and implement
-  - Image Signal Processing (ISP) algorithm development  (The whole ISP pipeline except 3DNR)
+  - Image Signal Processing (ISP) algorithm development, The whole ISP pipeline: DPC,BNR,Demosaic,CCM,Gamma,CSC,HSI,Sharpen,YUV NR,Scaler,Dithering except 3DNR
   - Color Science Analyze
   - Image Quality Tunning
   - LED Lighting system design and development [Zolar](https://www.z-cam.com/zolar/)
