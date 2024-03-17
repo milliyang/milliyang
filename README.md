@@ -8,12 +8,12 @@ About me:
 - 5 years software development on mainfame machine in Banking Industry, works for [Forms](http://www.formssi.cn/)
 - 10+ years on camera development for [Z-CAM](https://www.z-cam.com/zcame2/), on these topic:
   - Android / iOS App development
-  - Linux system software development
-  - Neural Networks integration on embeded system
+  - Linux system software development: networking,logging,cache,streaming
+  - Neural Networks training, integration on embeded system
   - Auto Exposure / Auto White Blance / Auto Focus (3A) algorithm design and implement
   - Image Signal Processing (ISP) algorithm development, The whole ISP pipeline: DPC, BNR, Demosaic, CCM, Gamma, CSC, HSI, Sharpen, YUV NR, Scaler, Dithering except 3DNR
   - Color Science Analyze
-  - Image Quality Tunning
+  - Image Tunning, Quality Control
   - LED Lighting system design and development [Zolar](https://www.z-cam.com/zolar/)
 
 - Language:
