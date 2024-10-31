@@ -19,7 +19,9 @@ About me:
 - Language:
    - used : Cobol / Go / Objectivc C / Java
    - using: Python / C-- / C
-   - learning: Finance, Quant, Algorithm
+
+- Learning:
+   - Finance, Quant, Algorithm
 
 - Location:
    - Hong Kong
