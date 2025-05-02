@@ -4,11 +4,14 @@
 - 💞️ I’m looking to collaborate on Quant Trading / Backtesting / Time Series related Project
 - 📫 You can reach me leo.at.imvt.com
 
+Current Hobby:
+ - Backtesting [noise](https://github.com/milliyang/noise)
+ 
 About me:
 - 5 years software development on mainfame machine in Banking Industry, works for [Forms](https://www.formssi.com/pc/home)
 - 10+ years on camera development for [Z-CAM](https://www.z-cam.com/zcame2/), on these topic:
   - Android / iOS App development
-  - Linux system software development: networking,logging,cache,streaming
+  - Linux system software development: networking,logging,cache,streaming,GUI
   - Neural Networks training, integration on embeded system
   - Auto Exposure / Auto White Blance / Auto Focus (3A) algorithm design and implement
   - Image Signal Processing (ISP) algorithm development, The whole ISP pipeline: DPC, BNR, Demosaic, CCM, Gamma, CSC, HSI, Sharpen, YUV NR, Scaler, Dithering except 3DNR
@@ -18,7 +21,7 @@ About me:
 
 - Language:
    - used : Cobol / Go / Objectivc C / Java
-   - using: Python / C-- / C
+   - using: Python / C++ / C
 
 - Learning:
    - Finance, Quant, Algorithm
