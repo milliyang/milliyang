@@ -4,12 +4,12 @@
 - 💞️ I’m looking to collaborate on Quant Trading / Backtesting / Time Series related Project
 - 📫 You can reach me leo.at.imvt.com
 
-Current Hobby:
+Personal Hobby/Project:
  - Backtesting [noise](https://github.com/milliyang/noise)
  
 About me:
 - 5 years software development on mainfame machine in Banking Industry, works for [Forms](https://www.formssi.com/pc/home)
-- 10+ years on camera development for [Z-CAM](https://www.z-cam.com/zcame2/), on these topic:
+- 12+ years on camera development for [Z-CAM](https://www.z-cam.com/zcame2/), on these topic:
   - Android / iOS App development
   - Linux system software development: networking,logging,cache,streaming,GUI
   - Neural Networks training, integration on embeded system
