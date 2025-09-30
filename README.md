@@ -14,8 +14,9 @@ About me:
   - Android / iOS App development
   - Linux system software development: networking,logging,cache,streaming,GUI,profile
   - Neural Networks training, integration on embeded system;
-  - Auto Exposure / Auto White Blance / Auto Focus (3A) / Tracking algorithm design and implement
-  - Image Signal Processing (ISP) algorithm development, The whole ISP pipeline: DPC, BNR, Demosaic, CCM, Gamma, CSC, HSI, Sharpen, YUV NR, Scaler, Dithering except 3DNR
+  - Camera 3A Algorithm: Auto Exposure / Auto White Blance / Auto Focus
+  - PTZ Camera: Human Tracking, Auto Framing design and implement
+  - Image Signal Processing (ISP) algorithm, The whole ISP pipeline: DPC, BNR, Demosaic, CCM, Gamma, CSC, HSI, Sharpen, YUV NR, Scaler, Dithering except 3DNR
   - Color Science Analyze
   - Image Tunning, Quality Control
   - LED Lighting system design and development [Zolar](https://www.z-cam.com/zolar/)
