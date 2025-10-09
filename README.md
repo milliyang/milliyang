@@ -6,7 +6,7 @@
 
 Personal Hobby/Project:
  - Backtesting [Noise](https://github.com/milliyang/noise)
- - ai detection [Yolo 1D](https://github.com/milliyang/yolo1d)
+ - ai timeseries detection [Yolo 1D](https://github.com/milliyang/yolo1d)
  
 About me:
 - 5 years software development on mainfame machine in Banking Industry, works for [Forms](https://www.formssi.com/pc/home)
