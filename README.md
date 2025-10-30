@@ -6,7 +6,7 @@
 
 Personal Hobby/Project:
  - Backtesting [Noise](https://github.com/milliyang/noise)
- - AI timeseries detection [Yolo 1D](https://github.com/milliyang/yolo1d)
+ - AI timeseries detection [Yolo 1D](https://github.com/milliyang/yolo1d) and [TS labeling](https://github.com/milliyang/ts_label)
  - tracking system and labeling tools [MOT Label](https://github.com/milliyang/mot_label)
  
 About me:
