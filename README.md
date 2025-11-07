@@ -2,7 +2,7 @@
 - 👀 I’m interested in Image Processing, Quant Trading
 - 🌱 I’m currently learning: making things simple
 - 💞️ I’m looking to collaborate on Quant Trading / Backtesting / Time Series related Project
-- 📫 You can reach me leo.at.imvt.com
+- 📫 You can reach me by email: leo.at.imvt.com
 
 Personal Hobby/Project:
  - Backtesting [Noise](https://github.com/milliyang/noise)
