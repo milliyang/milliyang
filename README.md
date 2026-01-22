@@ -5,8 +5,7 @@
 - 📫 You can reach me by email: leo.at.imvt.com
 
 Personal Hobby/Project:
- - Backtesting [Noise](https://github.com/milliyang/noise)
- - Tiny Paper Trade [PPT](https://github.com/milliyang/ppt)
+ - Backtesting [Noise](https://github.com/milliyang/noise), Tiny Paper Trade [PPT](https://github.com/milliyang/ppt)
  - AI timeseries detection [Yolo 1D](https://github.com/milliyang/yolo1d) and [TS labeling](https://github.com/milliyang/ts_label)
  - tracking system and labeling tools [MOT Label](https://github.com/milliyang/mot_label)
  
