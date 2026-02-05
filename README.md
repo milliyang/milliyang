@@ -5,7 +5,7 @@
 - 📫 You can reach me by email: leo.at.imvt.com
 
 Personal Hobby/Project:
- - Lightweight paper trading component [PPT](https://github.com/milliyang/ppt), [DMS](https://github.com/milliyang/dms)
+ - Lightweight trading [Zuilow](https://github.com/milliyang/zuilow) [PPT](https://github.com/milliyang/ppt), [DMS](https://github.com/milliyang/dms)
  - Backtesting [Noise](https://github.com/milliyang/noise)
  - AI timeseries detection [Yolo 1D](https://github.com/milliyang/yolo1d) and [TS labeling](https://github.com/milliyang/ts_label)
  - tracking system and labeling tools [MOT Label](https://github.com/milliyang/mot_label)
