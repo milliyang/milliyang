@@ -12,7 +12,7 @@ Personal Hobby/Project:
  
 About me:
 - 5 years software development on mainfame machine in Banking Industry, works for [Forms](https://www.formssi.com/pc/home)
-- 12+ years on camera development for [Z-CAM](https://www.z-cam.com/zcame2/), on these topic:
+- 13+ years on camera development for [Z-CAM](https://www.z-cam.com/zcame2/), on these topic:
   - Android / iOS App development
   - Linux system software development: networking,logging,cache,streaming,GUI,profile
   - Neural Networks training, integration on embeded system;
