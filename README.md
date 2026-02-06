@@ -16,7 +16,7 @@ About me:
   - Android / iOS App development
   - Linux system software development: networking,logging,cache,streaming,GUI,profile
   - Neural Networks training, integration on embeded system;
-  - Camera 3A Algorithm: Auto Exposure / Auto White Blance / Auto Focus
+  - Camera 3A Algorithm: Auto Exposure / Auto White Balance / Auto Focus
   - PTZ Camera: Human Tracking, Auto Framing design and implement
   - Image Signal Processing (ISP) algorithm, The whole ISP pipeline: DPC, BNR, Demosaic, CCM, Gamma, CSC, HSI, Sharpen, YUV NR, Scaler, Dithering except 3DNR
   - Color Science Analyze
@@ -24,8 +24,9 @@ About me:
   - LED Lighting system design and development [Zolar](https://www.z-cam.com/zolar/)
 
 - Language:
-   - used : Cobol / Go / Objectivc C / Java
    - using: Python / C++ / C
+   - used : Cobol / Go / Objectivc C / Java
+   
 
 - Learning:
    - Finance, Quant, Algorithm
