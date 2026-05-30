@@ -18,7 +18,7 @@ About me:
   - Neural Networks training, integration on embeded system;
   - Camera 3A Algorithm: Auto Exposure / Auto White Balance / Auto Focus
   - PTZ Camera: Human Tracking, Auto Framing design and implement
-  - Image Signal Processing (ISP) algorithm, implement the whole camnera ISP pipeline
+  - Image Signal Processing (ISP) algorithm, implement the whole camera ISP pipeline
   - Color Science Analyze
   - Image Tunning, Quality Control
   - LED Lighting system design and development [Zolar](https://www.z-cam.com/zolar/)
