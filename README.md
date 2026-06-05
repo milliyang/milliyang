@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision, Image Processing, Quant Trading
 - 🌱 I’m currently learning: making things simple
 - 💞️ I’m looking to collaborate on Quant Trading / Backtesting / Time Series related Project
-- 📫 You can reach me by email: leo.at.imvt.com
+- 📫 You can reach me by email: leo at imvt.com
 
 Personal Hobby/Project:
  - Lightweight trading platform [Zuilow](https://github.com/milliyang/zuilow)
@@ -15,7 +15,7 @@ About me:
 - 13+ years on camera development for [Z-CAM](https://www.z-cam.com/zcame2/), on these topic:
   - Android / iOS App development
   - Linux system software development: networking,logging,cache,streaming,GUI,profile
-  - Neural Networks training, integration on embeded system;
+  - Neural Networks training(pytorch), integration on embeded system;
   - Camera 3A Algorithm: Auto Exposure / Auto White Balance / Auto Focus
   - PTZ Camera: Human Tracking, Auto Framing design and implement
   - Image Signal Processing (ISP) algorithm, implement the whole camera ISP pipeline
